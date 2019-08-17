@@ -5,11 +5,12 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 @Data
-@NoArgsConstructor//ÎŞ²Î¹¹Ôì
-@AllArgsConstructor//È«²Î¹¹Ôì
+@NoArgsConstructor//æ— å‚æ„é€ 
+@AllArgsConstructor//å…¨å‚æ„é€ 
 public class Item {
-	//±àºÅ
-	private Integer id;//ÉÌÆ·id
-	private String name;//ÉÌÆ·Ãû
-	private Integer number;//ÉÌÆ·ÊıÁ¿
+	//ç¼–å·
+	private Integer id;//å•†å“id
+	private String name;//å•†å“å
+	private Integer number;//å•†å“æ•°é‡
+	//2222222222222222
 }
