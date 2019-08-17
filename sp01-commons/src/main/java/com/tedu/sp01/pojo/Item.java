@@ -5,13 +5,17 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 @Data
-@NoArgsConstructor//无参构造
-@AllArgsConstructor//全参构造
+@NoArgsConstructor//
+@AllArgsConstructor//
 public class Item {
+
 	//编号
 	private Integer id;//商品id
 	private String name;//商品名
 	private Integer number;//商品数量
 	
 	//333333
+	//2222222222222222
 }
+
+
