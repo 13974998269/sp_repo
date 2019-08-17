@@ -9,14 +9,19 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 public class Item {
 
-	//±àºÅ
-	private Integer id;//ÉÌÆ·id
-	private String name;//ÉÌÆ·Ãû
-	private Integer number;//ÉÌÆ·ÊıÁ¿
-	
+	//ç¼–å·
+	private Integer id;//å•†å“id
+	private String name;//å•†å“å
+	private Integer number;//å•†å“æ•°é‡
+
 	//333333
 	//2222222222222222
 	//555555
+	//4444444444
+	//666666
 }
+
+
+
 
 
